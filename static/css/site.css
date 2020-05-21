@@ -11,3 +11,7 @@ body {
   font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
+p.greeting {
+  font-family: "Veranda", sans-serif;
+  color: green;
+}
