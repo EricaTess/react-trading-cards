@@ -44,3 +44,25 @@ ReactDOM.render(
   ),
   document.querySelector('#llambda')
 );
+
+ReactDOM.render(
+  (
+    <TradingCard
+      name="Merge"
+      skill="fishing"
+      imgUrl="/static/img/merge.jpg"
+    />
+  ),
+  document.querySelector('#merge')
+);
+
+ReactDOM.render(
+  (
+    <TradingCard
+      name="Seedpy"
+      skill="Being so so sweet"
+      imgUrl="/static/img/seedpy.jpg"
+    />
+  ),
+  document.querySelector('#seedpy')
+);
